@@ -4,4 +4,4 @@ NPM     : 2006520405
 
 Kelas   : B
 
-Hobby   : Gatau
+Hobby   : Gatau, kayanya si dengerin musik
